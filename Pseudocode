@@ -1,0 +1,8 @@
+BEGIN
+   max_val = number(0) index - 1
+   More items in list:
+   max-val - current item 
+  END IF
+ END FOR
+ DISPLAY max_val
+END
